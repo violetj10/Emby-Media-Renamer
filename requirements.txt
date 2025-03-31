@@ -1,0 +1,4 @@
+# 核心依赖
+watchdog>=2.1.0      # 文件系统监控
+openai>=1.0.0        # AI接口调用
+requests>=2.28.0     # HTTP请求

@@ -1,0 +1,11 @@
+{
+  "monitor_path": ".\\test\\media\\",
+  "media_exts": [".mkv", ".mp4", ".avi", ".mov", ".wmv", ".m4v", ".flv"],
+  "recursive": true,
+  "log_level": "DEBUG",
+  "log_file": "media_monitor.log",
+  "ai_enabled": true,
+  "ai_api_key": "",
+  "ai_endpoint": "https://models.inference.ai.azure.com",
+  "ai_model": "gpt-4o"
+}
