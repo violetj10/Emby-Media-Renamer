@@ -168,7 +168,7 @@ This project is released under the [MIT License](LICENSE).
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/Emby-Media-Renamer&type=Date)](https://star-history.com/#yourusername/Emby-Media-Renamer&type=Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=violetj10/Emby-Media-Renamer&type=Date)](https://star-history.com/#violetj10/Emby-Media-Renamer&type=Date)
 
 <div align="center">
 <sub>Precise Naming • Perfect Organization • Media Server's Best Assistant</sub>
